@@ -1,2 +1,12 @@
 C:\Users\Admin\Desktop\TEST\winDB\winDB\bin\Debug\winDB.exe.config
 C:\Users\GeekZe\Desktop\sourceCade\winDB\winDB\bin\Debug\winDB.exe.config
+D:\Repos\winDB\winDB\bin\Debug\winDB.exe.config
+D:\Repos\winDB\winDB\bin\Debug\winDB.exe
+D:\Repos\winDB\winDB\bin\Debug\winDB.pdb
+D:\Repos\winDB\winDB\obj\Debug\winDB.csprojResolveAssemblyReference.cache
+D:\Repos\winDB\winDB\obj\Debug\winDB.Form1.resources
+D:\Repos\winDB\winDB\obj\Debug\winDB.Properties.Resources.resources
+D:\Repos\winDB\winDB\obj\Debug\winDB.csproj.GenerateResource.cache
+D:\Repos\winDB\winDB\obj\Debug\winDB.csproj.CoreCompileInputs.cache
+D:\Repos\winDB\winDB\obj\Debug\winDB.exe
+D:\Repos\winDB\winDB\obj\Debug\winDB.pdb
